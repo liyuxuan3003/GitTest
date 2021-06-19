@@ -7,5 +7,6 @@ master:Hi！
 Added by TestBranch2.
 Added by TestBranch3.
 D
+TESTBRANCH6
 F
 G
