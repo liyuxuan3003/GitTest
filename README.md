@@ -1,2 +1,2 @@
 # GitTest
-A
+B
