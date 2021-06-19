@@ -4,3 +4,4 @@ B
 C
 Added by master.
 master:Hi！
+Added by TestBranch2.
