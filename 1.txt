@@ -1,5 +1,6 @@
 Hello World!
 A
+MASTER
 B
 C
 Added by master.
