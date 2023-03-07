@@ -12,8 +12,5 @@ TESTBRANCH6
 F
 G
 
-<<<<<<< HEAD
 A
-=======
 B
->>>>>>> TestBranch
